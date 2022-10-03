@@ -1,6 +1,7 @@
 # -*- mode: shell-script-mode; -*-
 
-# Append homebrew bin to the path
-pathappend $HOME/tools/homebrew/bin
+# Prepend to PATH because homebrew has later versions and none
+# of the annoying Apple licensing junk 
+pathprepend $HOME/tools/homebrew/bin
 
 
