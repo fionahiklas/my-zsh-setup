@@ -1,4 +1,4 @@
-# -*- mode: shell-script-mode; -*-
+# -*- mode: shell-script; -*-
 #
 # Add Maven from /opt
 #

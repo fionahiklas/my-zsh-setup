@@ -1,4 +1,4 @@
-# -*- mode: shell-script-mode; -*-
+# -*- mode: shell-script; -*-
 
 # Find the location for user Ruby gems
 export USER_GEMS=`gem env | grep "USER INSTALLATION DIRECTORY" | sed -e 's/^.*\(\/Users\/.*\)$/\1/'`

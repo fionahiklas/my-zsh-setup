@@ -1,4 +1,4 @@
-# -*- mode: shell-script-mode; -*-
+# -*- mode: shell-script; -*-
 
 pathappend() {
   for ARG in "$@"
