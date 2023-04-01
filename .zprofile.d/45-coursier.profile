@@ -8,7 +8,9 @@
 # cd !$
 # curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier && chmod +x coursier
 # ```
-# 
+#
+
+echo "Adding coursier into path"
 
 export COURSIER_HOME=$HOME/tools/coursier
 
