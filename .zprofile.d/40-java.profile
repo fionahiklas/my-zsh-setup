@@ -2,10 +2,10 @@
 #
 # Using jenv to manage everything
 #
-# Following instructions here
+# Following instructions here https://www.jenv.be
 #
 # ```
-# mkdir -p $HOME/tools/jenv
+# cd $HOME/tools
 # git clone https://github.com/jenv/jenv.git jenv
 # ```
 #
