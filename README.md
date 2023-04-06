@@ -31,3 +31,14 @@ Copy the `.zprofile.d` directory contents to `$HOME/.zprofile.d`
 * [Parameter expansion in BASH](https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html#tag_02_06_02)
 * [Parameter expansion for zsh](https://zsh.sourceforge.io/Doc/Release/Expansion.html)
 
+
+### Git
+
+* [Find root of git repo](https://stackoverflow.com/questions/957928/is-there-a-way-to-get-the-git-root-directory-in-one-command)
+
+
+### Go 
+
+* [Go env variables](https://stackoverflow.com/questions/40825613/where-are-the-golang-environment-variables-stored)
+* [The goenv utility](https://dev.to/clivern/how-to-manage-your-applications-go-environment-with-goenv-567d)
+
